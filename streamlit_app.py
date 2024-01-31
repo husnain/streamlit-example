@@ -1,7 +1,4 @@
 # Import required libraries
-from dotenv import load_dotenv
-from itertools import zip_longest
-
 import streamlit as st
 from streamlit_chat import message
 with st.sidebar:
