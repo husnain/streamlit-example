@@ -1,5 +1,7 @@
 streamlit
 streamlit-chat
-python-dotenv
 langchain
 openai
+anthropic>=0.3.0
+trubrics>=1.4.3
+streamlit-feedback
